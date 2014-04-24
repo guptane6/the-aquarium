@@ -12,4 +12,5 @@ on the screen and their current locations. The "trash can" option will toggle a 
 delete the items or fish on the screen.
 
 
-For any further information, please contact me at neharg07@gmail.com or 9894921054
+For any further information, please contact me.
+It is highly possible that this code will not download correctly from Github due to size constraints from github's recommended maximum size per file. The wxwidgets library, used in this, exceeds that maximum size. 
