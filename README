@@ -1,4 +1,15 @@
 Neha Gupta
-This project was developed to simulate a virtual aquarium, complete with swimming fish and other items. It was made on a linux machine using NetBeans' project options, so the makefile is the default makefile used by NetBeans.
 
-Therefore, to run this, the files must be unzipped and opened in NetBeans and then run.  For any further information, please contact me at neharg07@gmail.com or 9894921054
+This project was developed to simulate a virtual aquarium, complete with swimming fish and other items.
+
+To run it, type: 
+'make -f Makefile.mak'
+./Aquarium
+
+
+The save and load options allow a user of the program to open and save a .aqua file which will store the items
+on the screen and their current locations. The "trash can" option will toggle a trash can, allowing users to
+delete the items or fish on the screen.
+
+
+For any further information, please contact me at neharg07@gmail.com or 9894921054
